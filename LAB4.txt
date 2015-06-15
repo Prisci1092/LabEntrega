@@ -1,0 +1,16 @@
+
+Laboratorio 4
+
+1]
+   a)Un repositorio es un archivo donde se almacenan datos de forma digital, como códigos de programación.
+   b)El gitignore es un archivo que especifica que arcchivos debe ignorar Git intencionalmente.
+
+2]
+
+   a)Es crear una copia local del Repositorio
+   Se usa el comando git clone
+   
+3]
+
+   a) Después de agregar los cambio, commit es un comando para confirmarlos
+   
