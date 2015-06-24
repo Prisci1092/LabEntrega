@@ -13,6 +13,8 @@ int main()
 {
     Tesoro t = Tesoro();
     t.sTesoro();
+    Pirata p = Pirata();
+    p.sPirata();
     return 0;
 
 }
